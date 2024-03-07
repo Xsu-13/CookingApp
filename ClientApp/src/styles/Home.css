@@ -1,0 +1,21 @@
+.greetings-title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.greetings-subtitle{
+    font-size: 16px;
+    font-weight: 400;
+    color: #A9A9A9;
+}
+
+.greetings{
+    margin: 50px 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
